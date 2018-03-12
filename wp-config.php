@@ -23,10 +23,10 @@
 define('DB_NAME', 'wp-esgi');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'esgi');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'gd78$#Ogc');
+define('DB_PASSWORD', 'esgi');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
